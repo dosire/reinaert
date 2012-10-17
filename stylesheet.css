@@ -1,0 +1,47 @@
+A {
+	color : #E4B71C;
+	font : italic/normal;
+	text-decoration : none;
+	font-size : medium;
+}
+
+A:HOVER {
+	color : #F3D885;
+	font : italic;
+	text-decoration : none;
+	letter-spacing : 1px;
+	font-size : medium;
+}
+
+A:ACTIVE {
+	color : #E4B71C;
+	font :  italic;
+	text-decoration : none;	
+	font-size : medium;
+}
+
+
+TABLE {
+	background-color : Maroon;
+	font : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+TD {
+	margin-left : 10px;
+}
+
+H1 {
+	color : #E4B71C;
+	font-size : medium;
+	font-style : normal;
+	font-weight : lighter;
+	font : italic;
+}
+
+H2 {
+	color : #E4B71C;
+	font-size : large;
+	font : bold italic;
+	text-decoration : none;
+	letter-spacing : 2px;
+}

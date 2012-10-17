@@ -1,0 +1,1 @@
+FOR %%F IN (*.m4) DO m4 code.m4 "%%F" > "%%~nF.html"
